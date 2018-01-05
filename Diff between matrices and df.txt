@@ -1,0 +1,1 @@
+jjkfjkdDifference between matrices and data frames is that datatypes in data frame can be continuous and categorica but in matrices it is only continuous
